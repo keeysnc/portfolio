@@ -16,7 +16,7 @@ import homeLogo from './img/home.svg'
 import aboutLogo from './img/about-logo.svg'
 import musicLogo from './img/80percent-logo.svg'
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Link

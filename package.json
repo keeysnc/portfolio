@@ -1,6 +1,6 @@
 {
-  "homepage" : "http://keeysnc.github.io/portfolio/public",
-  "name": "my-app", 
+  "homepage": "https://keeysnc.github.io/portfolio/public/",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

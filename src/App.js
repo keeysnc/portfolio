@@ -12,7 +12,7 @@ import absHero from './img/ads-hero.jpg'
 import codePenLogo from './img/codepen.svg'
 import mediumLogo from './img/medium.svg'
 import resumeLogo from './img/resume.svg'
-import homeLogo from './img/lwd-logo.svg'
+import homeLogo from './img/home.svg'
 import aboutLogo from './img/about-logo.svg'
 import musicLogo from './img/80percent-logo.svg'
 import {

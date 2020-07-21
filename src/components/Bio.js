@@ -19,12 +19,12 @@ function Bio() {
     return (
       <div className="section">
         <div className="section">
-        <h1 className="title">Like Water Design Studio</h1>
-        <h4 className="subtitle highlight">
-          Welcome! My name is <Link alt="home" to="/about">Nathan Keeys,</Link> I'm a software developer and owner of Like Water Design Studio. 
-          </h4>
+        <h1 className="title">Hi! My name is <Link alt="home" to="/about">Nathan Keeys,</Link> I'm a creative technologist, music artist and owner of <Link alt="home" to="/about">Like Water Design Studio</Link>. </h1>
+        <h4 className="subtitle"></h4>
           <p style={{lineHeight: '1.7rem'}}>
-          Like Water Design Studio is a UI/UX Design and Web Development Consultancy that specializes in building interactive websites and mobile applications for <b>health and wellness</b>.
+          This website showcases a mix of self-initiated and collaborative projects throughout my years as a developer.
+          I have a passion for continuous learning which has fueled my excitement to learn about newcoming technologies, and the creative
+          ways humans interact with them.
           </p>
         </div>
         <div>

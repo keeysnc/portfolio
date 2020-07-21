@@ -12,7 +12,7 @@ function About() {
         <div className="col-md-6">
         <div className="about">
             <h1 className="title">About Me</h1>
-            <h4 className="subtitle highlight">Freelance Software Developer | Music Artist</h4>
+            <h4 className="subtitle highlight">Software Developer</h4>
             <p style={{lineHeight: '1.7rem'}}>
             I'm a self starter whose excited about emerging tech and it's impact on humans. 
             I'm passionate in creating purpose-driven digital interactions using 2D/3D visuals,

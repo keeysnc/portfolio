@@ -5,7 +5,7 @@ import rp3Image from '../img/rp3agency.jpg'
 import nsImage from '../img/ns-hero.jpg'
 import adsImage from '../img/ads-hero.jpg'
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Link

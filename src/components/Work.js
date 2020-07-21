@@ -2,7 +2,7 @@ import React from 'react';
 import Container from './Container';
 import CaseStudy from './CaseStudy';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Link

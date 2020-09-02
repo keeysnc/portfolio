@@ -6,9 +6,10 @@ import About from './components/About';
 import Work from './components/Work';
 import Footer from './components/Footer';
 import Container from './components/Container';
-import aqiHero from './img/aqi-work-hero.jpg'
-import rp3Hero from './img/rp3agency.jpg'
-import absHero from './img/ads-hero.jpg'
+import aqiHero from './img/aqi-hero.png'
+import adsHero from './img/ads-hero.jpg'
+import rp3Hero from './img/rp3Hero.jpg'
+import noiseHero from './img/noise-generator.jpg'
 import codePenLogo from './img/codepen.svg'
 import mediumLogo from './img/medium.svg'
 import resumeLogo from './img/resume.svg'
@@ -62,7 +63,10 @@ function App() {
               <Work hero={rp3Hero}/>
             </Route>
             <Route exact path="/work/abigails-driving-school">
-              <Work hero={absHero}/>
+              <Work hero={adsHero}/>
+            </Route>
+            <Route exact path="/work/noise-generator">
+              <Work hero={noiseHero}/>
             </Route>
         <Footer/>
       </div>

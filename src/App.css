@@ -1,7 +1,7 @@
 body{
     padding: 0;
     margin: 0;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #666!important;
     background: #F5F6F6;
     position: relative;
@@ -9,7 +9,7 @@ body{
 }
 
 a{
-    color: #F95844!important;
+    color: #23D9B7!important;
 }
 
 
@@ -60,7 +60,7 @@ a{
 
 .highlight{
     font-weight: 600;
-    color:#F95844;
+    color: #23D9B7!important;
 
 }
 

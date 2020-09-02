@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import Card from '../components/Card'
 import aqiImage from '../img/aqi-gif.gif'
 import rp3Image from '../img/rp3agency.jpg'
-import nsImage from '../img/ns-hero.jpg'
-import adsImage from '../img/ads-hero.jpg'
+import noiseImage from '../img/noise_image.png'
+import adsImage from '../img/ads-image.jpg'
 import {
   HashRouter as Router,
   Switch,
@@ -19,12 +19,15 @@ function Bio() {
     return (
       <div className="section">
         <div className="section">
-        <h1 className="title">Hi! My name is <Link alt="home" to="/about">Nathan Keeys,</Link> I'm a creative technologist, music artist and owner of <Link alt="home" to="/about">Like Water Design Studio</Link>. </h1>
+        <h1 className="title">Hello! My name is <Link alt="home" to="/about">Nathan Keeys.</Link> I'm a software developer, music artist and owner of <a target="_blank" alt="Like Water Design" href="https://www.wearelikewater.com/">Like Water Design</a>. </h1>
         <h4 className="subtitle"></h4>
           <p style={{lineHeight: '1.7rem'}}>
           This website showcases a mix of self-initiated and collaborative projects throughout my years as a developer.
           I have a passion for continuous learning which has fueled my excitement to learn about newcoming technologies, and the creative
-          ways humans interact with them.
+          ways humans interact with them. 
+          <br></br>
+          <br></br>
+          Feel free to view my code on <a target="_blank" href="https://github.com/keeysnc"><b>github</b></a>.
           </p>
         </div>
         <div>
@@ -37,7 +40,7 @@ function Bio() {
               xmlns={`xmlns=”http://www.w3.org/2000/svg`}
               viewBox={`0 0 100 100`}
               imageSrc={aqiImage} 
-              caption={ "WebGL Air Quality Index Visualizer" }
+              caption={ "Air Quality Index Visualizer" }
               />
               <Card
               link={"/work/rp3agency"}
@@ -46,7 +49,7 @@ function Bio() {
               xmlns={`xmlns=”http://www.w3.org/2000/svg`}
               viewBox={`0 0 100 100`}
               imageSrc={rp3Image}
-              caption={ "RP3 Website Redesign" } 
+              caption={ "RP3 Agency Website - Drupal Front-End Development" } 
               />
               <Card
               link={"/work/abigails-driving-school"}
@@ -55,7 +58,16 @@ function Bio() {
               xmlns={`xmlns=”http://www.w3.org/2000/svg`}
               viewBox={`0 0 100 100`}
               imageSrc={adsImage} 
-              caption={ "Abigail's Driving School Website Redesign" } 
+              caption={ "Abigail's Driving School Website - React, Gatsby.js, Netlify CMS" } 
+              /> 
+              <Card
+              link={"/work/noise-generator"}
+              svgWidth={`100%`}
+              svgHeight={`100%`}
+              xmlns={`xmlns=”http://www.w3.org/2000/svg`}
+              viewBox={`0 0 100 100`}
+              imageSrc={noiseImage} 
+              caption={ "Plane Noise Generator - Javascript, Three.js" } 
               />              
           </div>
         </div>

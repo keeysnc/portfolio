@@ -35,7 +35,7 @@ function Work(props) {
               title={'Abigail\'s Driving School'}
               link={'https://abigailsdrivingschool.com'}
               hightlight={'Case Study'} 
-              content={'Abigail\'s Driving School brought me on board to help with the rebranding and development of their new website. '} 
+              content={'Abigail\'s Driving School brought me on board to help with the re-branding and development of their new website. '} 
               />
             </Route>
             <Route exact path="/work/noise-generator">

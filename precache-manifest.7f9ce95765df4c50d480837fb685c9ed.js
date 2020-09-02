@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bba4e96eaaa41d3c2703f46992db417d",
+    "revision": "d4b0c2ddb4abbf0372586852f9c89470",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "1df79454faf43fe39885",
+    "revision": "a5418836f8c11ff5ba28",
     "url": "/portfolio/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "5e350e951d5ff49b2fcd",
-    "url": "/portfolio/static/css/main.56ebe513.chunk.css"
+    "revision": "13586ef0b8fa55e78c2b",
+    "url": "/portfolio/static/css/main.f336a139.chunk.css"
   },
   {
-    "revision": "1df79454faf43fe39885",
-    "url": "/portfolio/static/js/2.404896b2.chunk.js"
+    "revision": "a5418836f8c11ff5ba28",
+    "url": "/portfolio/static/js/2.98b9785c.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.404896b2.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.98b9785c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5e350e951d5ff49b2fcd",
-    "url": "/portfolio/static/js/main.e493ca80.chunk.js"
+    "revision": "13586ef0b8fa55e78c2b",
+    "url": "/portfolio/static/js/main.ce76ce2e.chunk.js"
   },
   {
     "revision": "b37b5bb5a98282a2f0e7",
@@ -44,16 +44,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/about-pic.45f74089.png"
   },
   {
+    "revision": "7a10eaf63f91e1218bdf5f7526729156",
+    "url": "/portfolio/static/media/ads-hero.7a10eaf6.jpg"
+  },
+  {
     "revision": "9e77165b2885bd7c27c686a19f53078c",
-    "url": "/portfolio/static/media/ads-hero.9e77165b.jpg"
+    "url": "/portfolio/static/media/ads-image.9e77165b.jpg"
   },
   {
     "revision": "d8801cbf0c6f73efe35315817d4c4893",
     "url": "/portfolio/static/media/aqi-gif.d8801cbf.gif"
   },
   {
-    "revision": "89a33a20553471a2f1c4a9695f1bdf52",
-    "url": "/portfolio/static/media/aqi-work-hero.89a33a20.jpg"
+    "revision": "171b6457acbf6fbff6ca7bf2ba2686f3",
+    "url": "/portfolio/static/media/aqi-hero.171b6457.png"
   },
   {
     "revision": "fa51026cc879f9069a004f73f1f22e66",
@@ -76,8 +80,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/medium.af658bed.svg"
   },
   {
-    "revision": "c62c4099869c7bbe273a81dc38eb969e",
-    "url": "/portfolio/static/media/ns-hero.c62c4099.jpg"
+    "revision": "10b29eef5a0db1e043190a42549f855c",
+    "url": "/portfolio/static/media/noise-generator.10b29eef.jpg"
+  },
+  {
+    "revision": "34db005aa84b2ef9f87b0a4a4ca1856d",
+    "url": "/portfolio/static/media/noise_image.34db005a.png"
   },
   {
     "revision": "d852e7e235ad2e46fc8f44aacbb0af11",
@@ -86,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d939a369331c806e7f1024fefdd648d3",
     "url": "/portfolio/static/media/resume.d939a369.svg"
+  },
+  {
+    "revision": "0331a2c21a97351ec2eb9c9c629fa137",
+    "url": "/portfolio/static/media/rp3Hero.0331a2c2.jpg"
   },
   {
     "revision": "4dff2e69b7a6eba534c81e7c58e51b63",

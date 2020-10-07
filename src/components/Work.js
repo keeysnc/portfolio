@@ -40,7 +40,7 @@ function Work(props) {
             </Route>
             <Route exact path="/work/noise-generator">
               <CaseStudy
-              title={'Plane Noise Generator'}
+              title={'noisegen.io'}
               link={'http://noisegen.io/'}
               hightlight={'Case Study'} 
               content={'I created a tool that allows users to create and export generative art patterns from a 3D Plane. This application uses Perlin Noise to warp the 3D plane. Using the parameters on the top right, anyone can fine-tune the strength of the noise frequencies. Using this tool, artists and designers can experiment with new design patterns and export the final art for print use. '} 

@@ -67,7 +67,7 @@ function Bio() {
               xmlns={`xmlns=”http://www.w3.org/2000/svg`}
               viewBox={`0 0 100 100`}
               imageSrc={noiseImage} 
-              caption={ "Plane Noise Generator - Javascript, Three.js" } 
+              caption={ "noisegen.io - Javascript, Three.js" } 
               />              
           </div>
         </div>

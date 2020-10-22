@@ -14,12 +14,12 @@ function About() {
             <h1 className="title">About Me</h1>
             <p style={{lineHeight: '1.7rem'}}>
             I'm a self starter who is excited about emerging tech and its impact on humans. 
-            I'm passionate about creating purpose-driven digital interactions using 2D/3D visuals,
-            animations and UX/UI principles. When I'm not coding you can find me watching anime
-            on Crunchyroll, getting in a quick workout or consulting under my company <a target="_blank" href="https://www.wearelikewater.com/">Like Water Design</a>. 
+            I'm passionate about creating purpose-driven digital interactions using animation,
+            imagery, audio and visual elements. When I'm not coding you can find me watching anime
+            on Crunchyroll, getting in a quick workout, or producing experimental music on Ableton Live.<a target="_blank" href="https://www.wearelikewater.com/">Like Water Design</a>. 
             </p>
             <div className="stats">
-                <h1 className="title">Current Knowledge</h1>
+                <h1 className="title">Prowess</h1>
                 <p><span className="highlight">Design:</span> Adobe CS Suite, Sketch, Invision, XD</p>
                 <p><span className="highlight">Frontend:</span> HTML, CSS, Javascript, React, Gatsby.js</p>
                 <p><span className="highlight">Creative:</span> WebGL, GSAP, Three.js, GLSL, P5.js, Blender</p>

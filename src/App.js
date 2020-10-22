@@ -27,7 +27,7 @@ import {
 function App() {
 
   return (
-    <Router basename ="/portfolio">
+    <Router basename ="/">
       <div className="App">
         <header className="App-header">
           <Container>

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.512a708e.chunk.css",
+    "main.css": "/static/css/main.e04cf3e6.chunk.css",
     "main.js": "/static/js/main.6a54b29b.chunk.js",
     "main.js.map": "/static/js/main.6a54b29b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
@@ -9,10 +9,10 @@
     "static/js/2.63623353.chunk.js": "/static/js/2.63623353.chunk.js",
     "static/js/2.63623353.chunk.js.map": "/static/js/2.63623353.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fa4ed51ab2b05343ff242d1215aa0d2b.js": "/precache-manifest.fa4ed51ab2b05343ff242d1215aa0d2b.js",
+    "precache-manifest.2974b5a905a406f4d07ab66d990087c9.js": "/precache-manifest.2974b5a905a406f4d07ab66d990087c9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.512a708e.chunk.css.map": "/static/css/main.512a708e.chunk.css.map",
+    "static/css/main.e04cf3e6.chunk.css.map": "/static/css/main.e04cf3e6.chunk.css.map",
     "static/js/2.63623353.chunk.js.LICENSE.txt": "/static/js/2.63623353.chunk.js.LICENSE.txt",
     "static/media/80percent-logo.svg": "/static/media/80percent-logo.f8142e35.svg",
     "static/media/about-logo-alt.svg": "/static/media/about-logo-alt.1eca0443.svg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.83c3e0c4.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.63623353.chunk.js",
-    "static/css/main.512a708e.chunk.css",
+    "static/css/main.e04cf3e6.chunk.css",
     "static/js/main.6a54b29b.chunk.js"
   ]
 }

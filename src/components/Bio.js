@@ -5,9 +5,6 @@ import {
 
 function Bio() {
 
-  // let bg = document.body.style.background = "#000000";
-  // const [color, changeColor] = useState(bg);
-
     return (
       <div className="section">
         <div className="section">
@@ -20,13 +17,27 @@ function Bio() {
           <br></br>
           <br></br>
           Feel free to view my code on <a target="_blank" href="https://github.com/keeysnc"><b>github</b></a>.
+          <br></br>
+          <b>Clientele:</b> Clinical Pharmacy Associates / MednovateConnect / Ametropolitan Driving School / Good Fitness / Abigail's Driving School
           </p>
         </div>
         <h1>Projects & Products</h1>
         <br/>
-        <h3><a target="_blank" href="http://noisegen.io/">noisegen.io</a></h3>
-        <h3><a target="_blank" href="https://rp3agency.com/">rp3agency.com</a></h3>
-        <h3><a target="_blank" href="https://abigailsdrivingschool.com/">abigailsdrivingschool.com</a></h3>
+        <h4><a target="_blank" href="http://noisegen.io/">noisegen.io</a></h4>
+        <h4><a target="_blank" href="https://rp3agency.com/">rp3agency.com</a></h4>
+        <h4><a target="_blank" href="https://abigailsdrivingschool.com/">abigailsdrivingschool.com</a></h4>
+        <br/>
+        <br/>
+        <h1>Talks & Teaching</h1>
+        <br/>
+        <h4><a target="_blank" href="https://vimeo.com/463281152">Introduction to Node.js Review</a></h4>
+        <br/>
+        <br/>
+        <h1>Awards</h1>
+        <br/>
+        <h4><a href="https://www.awwwards.com/sites/noisegen-io">Awwwards - Honorable Mention - noisegen.io</a></h4>
+        <h4><a href="https://www.awwwards.com/sites/noisegen-io">Awwwards - Mobile Excellence - noisegen.io</a></h4>
+        <h4><a target="_blank" href="https://borensteingroup.com/tate-tryon-top-non-profit-accounting-firm-mints-gold-best-professional-services-website-2017-annual-international-davey-awards/">Clutch - Best Professional Service Website 2017</a></h4>
       </div>
     );
   }

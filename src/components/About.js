@@ -16,7 +16,7 @@ function About() {
             I'm a self starter who is excited about emerging tech and its impact on humans. 
             I'm passionate about creating purpose-driven digital interactions using animation,
             imagery, audio and visual elements. When I'm not coding you can find me watching anime
-            on Crunchyroll, getting in a quick workout, or producing experimental music on Ableton Live.<a target="_blank" href="https://www.wearelikewater.com/">Like Water Design</a>. 
+            on Crunchyroll, getting in a quick workout, or producing experimental music on Ableton Live. 
             </p>
             <div className="stats">
                 <h1 className="title">Prowess</h1>

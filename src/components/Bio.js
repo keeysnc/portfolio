@@ -18,7 +18,7 @@ function Bio() {
           <br></br>
           Feel free to view my code on <a target="_blank" href="https://github.com/keeysnc"><b>github</b></a>.
           <br></br>
-          <b>Clientele:</b> Clinical Pharmacy Associates / MednovateConnect / Ametropolitan Driving School / Good Fitness / Abigail's Driving School
+          <b>Clientele: </b>Clinical Pharmacy Associates / MednovateConnect / Ametropolitan Driving School / Good Fitness / Abigail's Driving School
           </p>
         </div>
         <h1>Projects & Products</h1>

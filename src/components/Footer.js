@@ -19,7 +19,7 @@ function Footer() {
                 <a alt="medium" target="_blank" href="https://medium.com/@likewaterdesignco"><img className="mediumIcon icon-alt" src={mediumLogoAlt}></img></a>
                 <a alt="music" target="_blank" href="https://80cacao.bandcamp.com/"><img className="codepenIcon icon" src={musicLogo}></img></a>
             </ul>
-            <small>Copyright 2020</small>
+            <small>Built by Nathan Keeys | Copyright 2020</small>
         </Container>
         </div>
       </div>

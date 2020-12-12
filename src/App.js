@@ -27,10 +27,10 @@ function App() {
         <header className="App-header">
           <Container>
             <ul>
-              <Link alt="home" to="/"><img className="homeIcon" src={homeLogo}></img></Link>
+              <Link alt="home" to="/"><b>HOME</b></Link>
               <div className="pull-right">
               <Link alt="about" to="/about"><img className="aboutIcon icon" src={aboutLogo}></img></Link>
-                <a alt="codepen" target="_blank" href="https://codepen.io/lwdstudio"><img className="codepenIcon icon-alt" src={codePenLogoAlt}></img></a>
+                <a alt="codepen" target="_blank" href="https://codepen.io/nate_wav"><img className="codepenIcon icon-alt" src={codePenLogoAlt}></img></a>
                 <a alt="medium" target="_blank" href="https://medium.com/@likewaterdesignco"><img className="mediumIcon icon-alt" src={mediumLogoAlt}></img></a>
                 <a alt="music" target="_blank" href="https://80cacao.bandcamp.com/"><img className="codepenIcon icon" src={musicLogo}></img></a>
               </div>

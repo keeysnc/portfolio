@@ -15,11 +15,11 @@ function Footer() {
         <Container>
             <ul>
                 <Link alt="about" to="/about"><img className="aboutIcon icon" src={aboutLogo}></img></Link>
-                <a alt="codepen" target="_blank" href="https://codepen.io/lwdstudio"><img className="codepenIcon icon-alt" src={codePenLogoAlt}></img></a>
+                <a alt="codepen" target="_blank" href="https://codepen.io/nate_wav"><img className="codepenIcon icon-alt" src={codePenLogoAlt}></img></a>
                 <a alt="medium" target="_blank" href="https://medium.com/@likewaterdesignco"><img className="mediumIcon icon-alt" src={mediumLogoAlt}></img></a>
                 <a alt="music" target="_blank" href="https://80cacao.bandcamp.com/"><img className="codepenIcon icon" src={musicLogo}></img></a>
             </ul>
-            <small>Made by Like Water Design | Copyright 2020</small>
+            <small>Copyright 2020</small>
         </Container>
         </div>
       </div>

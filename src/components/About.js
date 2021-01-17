@@ -20,9 +20,9 @@ function About() {
             </p>
             <div className="stats">
                 <h1 className="title">Prowess</h1>
-                <p><span className="highlight">Design:</span> Adobe CS Suite, Sketch, Invision, XD</p>
-                <p><span className="highlight">Frontend:</span> HTML, CSS, Javascript, React, Gatsby.js</p>
-                <p><span className="highlight">Creative:</span> WebGL, GSAP, Three.js, GLSL, P5.js, Blender</p>
+                <p><span className="highlight">Design:</span> Adobe CS Suite, Sketch, Figma, Invision</p>
+                <p><span className="highlight">Frontend:</span> HTML, CSS, Javascript, React, Vue.js, Gatsby.js</p>
+                <p><span className="highlight">Creative:</span> WebGL, GSAP, Three.js, GLSL, P5.js</p>
                 <p><span className="highlight">Backend:</span> Python, Django, Postgres, MongoDB, Node.js, Netlify</p>
                 <p><span className="highlight">Development Enviornment:</span> Docker, Vagrant, Linux</p>
                 <p><span className="highlight">Testing:</span> Cypress, Postman</p>

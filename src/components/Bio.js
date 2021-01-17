@@ -8,7 +8,7 @@ function Bio() {
     return (
       <div className="section">
         <div className="section">
-        <h1 className="title">My name is <Link alt="home" to="/about">Nathan Keeys.</Link> I'm a Creative Developer, Designer, and Interactive Artist</h1>
+        <h1 className="title">My name is <Link alt="home" to="/about">Nathan Keeys.</Link> I'm a Full Stack Web Developer and Designer</h1>
         <h4 className="subtitle"></h4>
           <p style={{lineHeight: '1.7rem'}}>
           This website showcases a mix of self-initiated, client work and collaborative projects.
@@ -18,7 +18,7 @@ function Bio() {
           <br></br>
           Feel free to view my code on <a target="_blank" href="https://github.com/keeysnc"><b>github</b></a>.
           <br></br>
-          <b>Clientele: </b>Clinical Pharmacy Associates / MednovateConnect / Ametropolitan Driving School / Good Fitness / Abigail's Driving School
+          <b>Clientele: </b>Clinical Pharmacy Associates / Vinvox / MednovateConnect / Ametropolitan Driving School / Good Fitness / Abigail's Driving School / CarpeDM
           </p>
         </div>
         <h1>Projects & Products</h1>

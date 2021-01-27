@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e04cf3e6.chunk.css",
+    "main.js": "/static/js/main.b742eeba.chunk.js",
+    "main.js.map": "/static/js/main.b742eeba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.20cf879b.chunk.js": "/static/js/2.20cf879b.chunk.js",
+    "static/js/2.20cf879b.chunk.js.map": "/static/js/2.20cf879b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6e55223357ec165b8850b209cfe7e53f.js": "/precache-manifest.6e55223357ec165b8850b209cfe7e53f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e04cf3e6.chunk.css.map": "/static/css/main.e04cf3e6.chunk.css.map",
+    "static/js/2.20cf879b.chunk.js.LICENSE.txt": "/static/js/2.20cf879b.chunk.js.LICENSE.txt",
+    "static/media/80percent-logo.svg": "/static/media/80percent-logo.f8142e35.svg",
+    "static/media/about-logo-alt.svg": "/static/media/about-logo-alt.1eca0443.svg",
+    "static/media/codepen-alt.svg": "/static/media/codepen-alt.fa51026c.svg",
+    "static/media/lwd-logo.svg": "/static/media/lwd-logo.84a3a2c0.svg",
+    "static/media/profile-pic.jpg": "/static/media/profile-pic.516be063.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.20cf879b.chunk.js",
+    "static/css/main.e04cf3e6.chunk.css",
+    "static/js/main.b742eeba.chunk.js"
+  ]
+}

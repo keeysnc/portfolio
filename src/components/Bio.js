@@ -8,7 +8,7 @@ function Bio() {
     return (
       <div className="section">
         <div className="section">
-        <h1 className="title">My name is <Link alt="home" to="/about">Nathan Keeys.</Link> I'm a Full Stack Developer and Designer.</h1>
+        <h1 className="title">My name is <Link alt="home" to="/about">Nathan Keeys.</Link> I'm a React Developer and Designer.</h1>
         <h4 className="subtitle"></h4>
           <p style={{lineHeight: '1.7rem'}}>
           This website showcases a mix of self-initiated, client work and collaborative projects.

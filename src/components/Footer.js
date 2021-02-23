@@ -16,10 +16,9 @@ function Footer() {
             <ul>
                 <Link alt="about" to="/about"><img className="aboutIcon icon" src={aboutLogo}></img></Link>
                 <a alt="codepen" target="_blank" href="https://codepen.io/nate_wav"><img className="codepenIcon icon-alt" src={codePenLogoAlt}></img></a>
-                <a alt="medium" target="_blank" href="https://medium.com/@likewaterdesignco"><img className="mediumIcon icon-alt" src={mediumLogoAlt}></img></a>
                 <a alt="music" target="_blank" href="https://80cacao.bandcamp.com/"><img className="codepenIcon icon" src={musicLogo}></img></a>
             </ul>
-            <small>Built by Nathan Keeys | Copyright 2020</small>
+            <small>Built by Nathan Keeys | Copyright 2021</small>
         </Container>
         </div>
       </div>

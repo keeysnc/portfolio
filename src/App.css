@@ -189,6 +189,17 @@ h1{
    width: 100%;
 }
 
+@media only screen and (max-width: 768px) {
+
+    h1{
+        font-size: 2.5rem!important;
+    }
+
+    .about-content{
+        padding-top: 30px;
+    }
+}
+
 /* canvas{
     height: 100%!important;
     position: absolute;

@@ -27,12 +27,11 @@ function App() {
         <header className="App-header">
           <Container>
             <ul>
-              <Link alt="home" to="/"><b>HOME</b></Link>
+              <Link className="logoName" alt="home" to="/"><b>Nathan Keeys</b></Link>
               <div className="pull-right">
-              <Link alt="about" to="/about"><img className="aboutIcon icon" src={aboutLogo}></img></Link>
-                <a alt="codepen" target="_blank" href="https://codepen.io/nate_wav"><img className="codepenIcon icon-alt" src={codePenLogoAlt}></img></a>
-                {/* <a alt="medium" target="_blank" href="https://medium.com/@likewaterdesignco"><img className="mediumIcon icon-alt" src={mediumLogoAlt}></img></a> */}
-                <a alt="music" target="_blank" href="https://80cacao.bandcamp.com/"><img className="codepenIcon icon" src={musicLogo}></img></a>
+                <a alt="codepen" target="_blank" href="https://codepen.io/nate_wav">Codepen</a>
+                <a alt="medium" target="_blank" href="https://medium.com/@nate-wav">Medium</a> 
+                <a alt="linkedin" target="_blank" href="https://www.linkedin.com/in/nathan-keeys-73971b3a/">LinkedIn</a>     
               </div>
             </ul>
           </Container>
@@ -44,11 +43,11 @@ function App() {
               <Bio/>
             </Route>
           </Switch>
-          <Switch>
+          {/* <Switch>
             <Route exact path="/about">
               <About/>
             </Route>
-          </Switch>
+          </Switch> */}
         </Container>
         <Footer/>
       </div>

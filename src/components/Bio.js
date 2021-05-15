@@ -8,18 +8,20 @@ function Bio() {
     return (
       <div className="section">
         <div className="section">
-        <h1 className="title">My name is Nathan Keeys - Creative Technologist and founder of UX studio, Digital Anthro.</h1>
+        <h1 className="title">Founder of Studio - Digital Anthro. <br/>
+        Front-End Developer, Designer, Creative Coder.</h1>
         <h4 className="subtitle"></h4>
           <h4 style={{lineHeight: '1.7rem'}}>
-          This website showcases a mix of self-initiated projects, client work and collaborative interactive projects. Feel free to explore, listen and view these works. 
+          As an designer and front-end developer, I'm intrigued about new technologies and the ways humans interact with them. I specialize in modern technology used to design & develop web interfaces as well as interactive web experiences. I've been fortunate to work in the creative industry for 8+ years working with clients such as Giant, MGM National Harbor, Accenture, Childrens Hospital and more.
           </h4>
         </div>
         <h1>Work</h1>
-        <h4><a target="_blank" href="http://noisegen.io/">Noisegen.io - Design, WebGL and Three.js Development</a></h4>
-        <h4><a target="_blank" href="https://abigailsdrivingschool.com/en/">Abigails Driving School - Gatsby.js Development</a></h4>
-        <h4><a target="_blank" href="https://www.vinvox.com/">Vinvox - SVG Web Animations</a></h4>
-        <h4><a target="_blank" href="https://carpedmdating.com/">CarpeDM Dating - Wordpress Development</a></h4>
-        <h4><a target="_blank" href="https://80cacao.bandcamp.com/">80% Cacao - Electronic Music Project</a></h4>
+        <h4><a target="_blank" href="http://noisegen.io/">Noisegen.io</a></h4>
+        <h4><a target="_blank" href="https://abigailsdrivingschool.com/en/">Abigails Driving School</a></h4>
+        <h4><a target="_blank" href="https://www.vinvox.com/">Vinvox</a></h4>
+        <h4><a target="_blank" href="https://carpedmdating.com/">CarpeDM Dating</a></h4>
+        <h4><a target="_blank" href="https://rp3agency.com/">RP3 Agency</a></h4>
+        <h4><a target="_blank" href="https://www.hrci.org/">HRCI</a></h4>
         <br/>
         <br/>
         <h1>Talks & Teaching</h1>

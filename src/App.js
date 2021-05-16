@@ -29,10 +29,9 @@ function App() {
             <ul>
               <Link className="logoName" alt="home" to="/"><b>Nathan Keeys</b></Link>
               <div className="pull-right">
-                <a alt="codepen" target="_blank" href="https://codepen.io/nate_wav">Codepen</a>
-                <a alt="medium" target="_blank" href="https://medium.com/@nate-wav">Medium</a> 
+                <a alt="codepen" target="_blank" href="https://codepen.io/natekeeys">Codepen</a>
+                <a alt="medium" target="_blank" href="https://medium.com/@natekeeys">Medium</a> 
                 <a alt="linkedin" target="_blank" href="https://www.linkedin.com/in/nathan-keeys-73971b3a/">LinkedIn</a>     
-                <a alt="instagram" target="_blank" href="https://www.linkedin.com/in/nathan-keeys-73971b3a/">LinkedIn</a>
               </div>
             </ul>
           </Container>

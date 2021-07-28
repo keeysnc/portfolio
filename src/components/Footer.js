@@ -18,7 +18,7 @@ function Footer() {
                 <a alt="medium" target="_blank" href="https://medium.com/@natekeeys">Medium</a> 
                 <a alt="linkedin" target="_blank" href="https://www.linkedin.com/in/nathan-keeys-73971b3a/">LinkedIn</a>     
             </ul>
-            <small>Built by Nathan Keeys | Copyright 2021</small>
+            <p>Built by Nathan Keeys | Copyright 2021</p>
         </Container>
         </div>
       </div>

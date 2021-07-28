@@ -27,7 +27,7 @@ function App() {
         <header className="App-header">
           <Container>
             <ul>
-              <Link className="logoName" alt="home" to="/"><b>Nathan Keeys</b></Link>
+              <Link className="logoName" alt="home" to="/">Nathan Keeys</Link>
               <div className="pull-right">
                 <a alt="codepen" target="_blank" href="https://codepen.io/natekeeys">Codepen</a>
                 <a alt="medium" target="_blank" href="https://medium.com/@natekeeys">Medium</a> 

@@ -1,28 +1,34 @@
-import React from 'react';
-import {
-  Link
-} from "react-router-dom";
-import Container from './Container';
-import codePenLogoAlt from '../img/codepen-alt.svg'
-import mediumLogoAlt from '../img/medium-alt.png'
-import aboutLogo from '../img/about-logo-alt.svg'
-import musicLogo from '../img/80percent-logo.svg'
+import React from "react";
+
+import Container from "./Container";
 
 function Footer() {
-    return (
-      <div className="Bio footer">
-        <div className="justify-content-center">
-        <Container>
-            <ul>
-                <a alt="codepen" target="_blank" href="https://codepen.io/natekeeys">Codepen</a>
-                <a alt="medium" target="_blank" href="https://medium.com/@natekeeys">Medium</a> 
-                <a alt="linkedin" target="_blank" href="https://www.linkedin.com/in/nathan-keeys-73971b3a/">LinkedIn</a>     
-            </ul>
-            <small>Built by Nathan Keeys | Copyright 2021</small>
-        </Container>
-        </div>
-      </div>
-    );
-  }
+	return (
+		<div className="Bio footer">
+			<div className="justify-content-center">
+				<Container>
+					<ul>
+						<a alt="epk" target="_blank" rel="noopener noreferrer" href="https://codepen.io/natekeeys">
+							80% Cacao EPK
+						</a>
+						<a alt="codepen" target="_blank" rel="noopener noreferrer" href="https://www.digitalanthro.co/">
+							Digital Anthro
+						</a>
+						<a alt="medium" target="_blank" rel="noopener noreferrer" href="https://medium.com/@natekeeys">
+							Publications
+						</a>
+						<a alt="twitter" target="_blank" rel="noopener noreferrer" href="https://twitter.com/natekeeys">
+							Twitter
+						</a>
+						<a alt="linkedin" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nathan-keeys-73971b3a/">
+							LinkedIn
+						</a>
+					</ul>
+					<small>Built by Digital Anthro | Copyright 2022</small>
+				</Container>
+			</div>
+		</div>
+	);
+}
 
 export default Footer;

@@ -98,7 +98,7 @@ const EpkBio = () => {
 				<p>
 					After graduating from college and pursuing design and web development, Nathan decided to use those skills to market his music solo. He took
 					on the name 80% Cacao combining his respect for the 80s era of digital music innovation and a new passion for staying healthy and fit. 80%
-					Cacao released his first full length album{" "}
+					Cacao released his first full length album.{" "}
 					<strong>
 						<a href="https://80cacao.bandcamp.com/album/luma" target="_blank" rel="noopener noreferrer">
 							Luma

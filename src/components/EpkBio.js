@@ -6,7 +6,7 @@ function EpkBio() {
 			<div className="section">
 				<h1>About The Artist</h1>
 				<br />
-				<h2>Chillwave Roots</h2>
+				<h3>Chillwave Roots</h3>
 				<p>
 					Prince Georges County, Maryland-born music producer, designer, web developer and educator, Nathan Keeys debuted back in 2009 under a
 					chillwave band in Richmond, VA known as The{" "}
@@ -35,7 +35,7 @@ function EpkBio() {
 					</strong>
 				</p>
 				<br />
-				<h2>Producing "Out Her Space"</h2>
+				<h3>Producing "Out Her Space"</h3>
 				<p>
 					During this time Nathan partnered with a friend and songwriter{" "}
 					<strong>
@@ -94,7 +94,7 @@ function EpkBio() {
 					</strong>
 				</p>
 				<br />
-				<h2>Origins of 80% Cacao</h2>
+				<h3>Origins of 80% Cacao</h3>
 				<p>
 					After graduating from college and pursuing design and web development, Nathan decided to use those skills to market his music solo. He took
 					on the name 80% Cacao combining his respect for the 80s era of digital music innovation and a new passion for staying healthy and fit. 80%
@@ -131,7 +131,7 @@ function EpkBio() {
 					, Unity Records Playlists and Island Beats, Aguss Styles and Juliana Hale.
 				</p>
 				<br />
-				<h2>Current Ventures</h2>
+				<h3>Current Ventures</h3>
 				<p>
 					80% Cacao has a lot planned! He is currently in the process of designing and developing his own custom music store and site for licensing
 					out his{" "}

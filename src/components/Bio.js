@@ -6,7 +6,7 @@ function Bio() {
 			<div className="section">
 				<h1>About</h1>
 				<p>
-					Curiosity, creativity, and infinite learning are what makes creative technology such a joy to work in. My name is Nathan Keeys and I'm a
+					Curiosity, creativity, and infinite learning are what makes creative technology so exciting to work in. My name is Nathan Keeys and I'm a
 					Creative Technologist with 8+ years in the creative and tech industry. I've been fortunate to work with notable brands and organizations
 					such as Accenture, Children's Hospital, Giant, and PenFed Credit Union. I currently work as a Senior React Developer for Accenture and own
 					an independent experience design studio called{" "}

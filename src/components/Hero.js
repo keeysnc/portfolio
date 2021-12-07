@@ -1,6 +1,7 @@
 import React from "react";
 import { useHistory } from "react-router-dom";
 import Container from "./Container";
+import Social from "./Social";
 
 const Hero = ({ heading, link, linkName, img }) => {
 	const history = useHistory();
@@ -16,6 +17,7 @@ const Hero = ({ heading, link, linkName, img }) => {
 							{linkName}
 						</a>
 					</h1>
+					<Social />
 				</div>
 			</Container>
 		</div>

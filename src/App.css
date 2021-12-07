@@ -10,7 +10,7 @@ body {
 }
 
 p {
-	line-height: 1.7em;
+	line-height: 28px;
 }
 
 .h1,
@@ -38,8 +38,13 @@ a {
 }
 
 h1 {
-	font-size: 3rem !important;
+	font-size: 3.5em !important;
 	color: rgb(0, 0, 0);
+	margin-bottom: 20px !important;
+}
+
+h3 {
+	margin-bottom: 20px !important;
 }
 
 .project-list {
@@ -263,6 +268,46 @@ h1 {
 	justify-content: space-around;
 }
 
+.social-media {
+	display: flex;
+	padding-left: 0;
+	margin-top: 10px;
+	flex-direction: row;
+	align-content: flex-end;
+}
+
+.social-media li a {
+	color: white !important;
+	padding-right: 20px;
+}
+
+.social-media li a:hover {
+	opacity: 0.8;
+}
+
+.social-media-icon {
+	fill: white;
+}
+
+.licensing-cta-btn {
+	display: inline-block;
+	border-radius: 30px;
+	margin: 10px 0 20px 0;
+	padding: 20px 40px 20px 40px;
+	background: white;
+	color: black;
+	cursor: pointer;
+}
+
+.licensing-cta-btn p {
+	font-weight: bold;
+	margin: 0 !important;
+}
+
+.licensing-cta-btn:hover {
+	background: rgb(221, 221, 221);
+}
+
 /* keyframes*/
 @keyframes easeIn {
 	0% {
@@ -314,8 +359,51 @@ h1 {
 		text-align: center;
 	}
 
+	.App-header ul a,
+	.footer ul a {
+		font-size: 0.5em;
+	}
+
+	.header {
+		width: 100%;
+	}
+
+	.hero {
+		height: 500px;
+	}
+
 	.block-link a {
 		width: 100%;
+	}
+
+	.section {
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	.social-media {
+		margin: auto;
+	}
+
+	.licensing-cta-btn p {
+		font-weight: bold;
+		margin: 0 !important;
+		font-size: 0.7em;
+	}
+
+	.licensing-cta-btn {
+		display: inline-block;
+		border-radius: 30px;
+		margin: 10px 0 20px 0;
+		padding: 10px 20px 10px 20px;
+		background: white;
+		color: black;
+		cursor: pointer;
+	}
+
+	.social-media svg {
+		width: 25px;
+		height: 25px;
 	}
 }
 

@@ -1,6 +1,6 @@
 import React from "react";
 
-const EpkBio = () => {
+function EpkBio() {
 	return (
 		<div className="section">
 			<div className="section">
@@ -183,6 +183,6 @@ const EpkBio = () => {
 			</div>
 		</div>
 	);
-};
+}
 
 export default EpkBio;

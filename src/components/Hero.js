@@ -17,7 +17,7 @@ const Hero = ({ heading, link, linkName, img }) => {
 							{linkName}
 						</a>
 					</h1>
-					<Social />
+					{history.location.pathname === "/80percentcacao" ? <Social /> : null}
 				</div>
 			</Container>
 		</div>

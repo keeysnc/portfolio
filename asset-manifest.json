@@ -1,30 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.3800fe4a.chunk.css",
-    "main.js": "/static/js/main.cfc20cd9.chunk.js",
-    "main.js.map": "/static/js/main.cfc20cd9.chunk.js.map",
+    "main.css": "/static/css/main.342153b9.chunk.css",
+    "main.js": "/static/js/main.93e5a1a7.chunk.js",
+    "main.js.map": "/static/js/main.93e5a1a7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
     "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a9eee97e.chunk.js": "/static/js/2.a9eee97e.chunk.js",
-    "static/js/2.a9eee97e.chunk.js.map": "/static/js/2.a9eee97e.chunk.js.map",
+    "static/js/2.0437b876.chunk.js": "/static/js/2.0437b876.chunk.js",
+    "static/js/2.0437b876.chunk.js.map": "/static/js/2.0437b876.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e812d1adfbc17d26cbfabe78926a3aee.js": "/precache-manifest.e812d1adfbc17d26cbfabe78926a3aee.js",
+    "precache-manifest.cb0391e940e4133a71ad66edddaaa546.js": "/precache-manifest.cb0391e940e4133a71ad66edddaaa546.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.3800fe4a.chunk.css.map": "/static/css/main.3800fe4a.chunk.css.map",
-    "static/js/2.a9eee97e.chunk.js.LICENSE.txt": "/static/js/2.a9eee97e.chunk.js.LICENSE.txt",
-    "static/media/80percent-logo.svg": "/static/media/80percent-logo.f8142e35.svg",
-    "static/media/about-logo-alt.svg": "/static/media/about-logo-alt.1eca0443.svg",
-    "static/media/codepen-alt.svg": "/static/media/codepen-alt.fa51026c.svg",
-    "static/media/lwd-logo.svg": "/static/media/lwd-logo.84a3a2c0.svg",
-    "static/media/profile-pic.jpg": "/static/media/profile-pic.91b12308.jpg"
+    "static/css/main.342153b9.chunk.css.map": "/static/css/main.342153b9.chunk.css.map",
+    "static/js/2.0437b876.chunk.js.LICENSE.txt": "/static/js/2.0437b876.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/epk-pic.629d9971.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.83c3e0c4.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a9eee97e.chunk.js",
-    "static/css/main.3800fe4a.chunk.css",
-    "static/js/main.cfc20cd9.chunk.js"
+    "static/js/2.0437b876.chunk.js",
+    "static/css/main.342153b9.chunk.css",
+    "static/js/main.93e5a1a7.chunk.js"
   ]
 }

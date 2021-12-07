@@ -2,14 +2,14 @@ import React from "react";
 import "./App.css";
 import Footer from "./components/Footer";
 import Container from "./components/Container";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Switch, Route, Link } from "react-router-dom";
 import { Children } from "react";
 import Portfolio from "./pages/Portfolio";
 import Epk from "./pages/Epk";
 
 function App() {
 	return (
-		<Router>
+		<Router basename={process.env.PUBLIC_URL}>
 			<div className="App">
 				<header className="App-header">
 					<Container>

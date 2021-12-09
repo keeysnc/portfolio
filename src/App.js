@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import Footer from "./components/Footer";
 import Container from "./components/Container";
-import { HashRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import { Children } from "react";
 import Portfolio from "./pages/Portfolio";
 import Epk from "./pages/Epk";
@@ -18,9 +18,9 @@ function App() {
 								Home
 							</Link>
 							<div className="pull-right">
-								<Link alt="epk" to="/80percentcacao">
-									80% Cacao EPK
-								</Link>
+								<a alt="80percentcacao" target="_blank" rel="noopener noreferrer" href="https://www.80percentcacao.com">
+									Music
+								</a>
 								<a alt="codepen" target="_blank" rel="noopener noreferrer" href="https://www.digitalanthro.co/">
 									Digital Anthro
 								</a>

@@ -44,12 +44,6 @@ function App() {
 					</Route>
 				</Switch>
 
-				<Switch>
-					<Route exact path="/80percentcacao">
-						<Epk>{Children}</Epk>
-					</Route>
-				</Switch>
-
 				<Footer />
 			</div>
 		</Router>

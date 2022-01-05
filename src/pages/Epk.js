@@ -7,17 +7,7 @@
 // const Epk = () => {
 // 	return (
 // 		<>
-// 			<Hero
-// 				heading="Hello!
-//                 I’m an electronic music producer under the moniker "
-// 				link="www.digitalanthro.co"
-// 				linkName="80% Cacao."
-// 				img={epkBg}
-// 			/>
-
-// 			<Container>
-// 				<EpkBio />
-// 			</Container>
+//
 // 		</>
 // 	);
 // };

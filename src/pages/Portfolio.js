@@ -6,13 +6,12 @@ import Container from "../components/Container";
 const Portfolio = () => {
 	return (
 		<>
-			<Hero
-				heading="Nathan Keeys - Creative Technologist, Educator, Music Producer and Founder of Creative Studio - "
-				link="www.digitalanthro.co"
-				linkName="Digital Anthro."
-			/>
-
 			<Container>
+				<Hero
+					heading="Nathan Keeys - Creative Technologist, Educator, Music Producer and Founder of Creative Studio - "
+					link="www.digitalanthro.co"
+					linkName="Digital Anthro."
+				/>
 				<Bio />
 			</Container>
 		</>

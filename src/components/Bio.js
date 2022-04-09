@@ -99,7 +99,7 @@ function Bio() {
 			<h1>Albums</h1>
 			<p>
 				<a href="https://80cacao.bandcamp.com/album/luma" target="_blank" rel="noopener noreferrer">
-					Luma - Instrumental EP. A production of instrumentals which fuse ambient sound design, hiphop and electronic elements.
+					Luma - Instrumental EP - A production of instrumentals which fuse ambient sound design, hiphop and electronic elements.
 				</a>
 			</p>
 			<br />

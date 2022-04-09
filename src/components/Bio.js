@@ -8,12 +8,11 @@ function Bio() {
 				<p>
 					My name is Nathan Keeys and I'm a javascript developer and experience designer with 8+ years in the creative and tech industry. I've been
 					fortunate to work with notable brands and organizations such as Accenture, Children's Hospital, Giant, and PenFed Credit Union. I currently
-					work as a Senior React Developer and freelance by night as an Creative Developer under my studio{" "}
+					work full-time as a Senior React Developer and freelance by night as an Creative Developer under my studio{" "}
 					<a href="https://www.digitalanthro.co/" target="_blank" rel="noopener noreferrer">
 						Digital Anthro
 					</a>
-					. I work with modern full stack javascript technologies, design systems and currently exploring in WebGL and immersive web development. When
-					I'm not working with clients I teach at{" "}
+					. I work with modern full stack javascript technologies, design systems and WebGL. When I'm not working with clients I teach at{" "}
 					<a href="https://bootcamp.cps.gwu.edu/coding/" target="_blank" rel="noopener noreferrer">
 						George Washington Universities Full-Stack Development Bootcamp
 					</a>{" "}

@@ -6,59 +6,63 @@ function Bio() {
 			<div className="section">
 				<h1>About</h1>
 				<p>
-					My name is Nathan Keeys and I'm a Creative Technologist with 8+ years in the creative and tech industry. I've been fortunate to work with
-					notable brands and organizations such as Accenture, Children's Hospital, Giant, and PenFed Credit Union. I currently work as a Senior React
-					Developer for Accenture and own an independent experience design studio called{" "}
-					<strong>
-						<a href="https://www.digitalanthro.co/" target="_blank" rel="noopener noreferrer">
-							Digital Anthro
-						</a>
-					</strong>
-					. I work with modern javascript front-end technologies, modern design systems and Touchdesigner for creative coding and audio visual work.
-					When I'm not working with clients I teach at{" "}
-					<strong>
-						<a href="https://bootcamp.cps.gwu.edu/coding/" target="_blank" rel="noopener noreferrer">
-							George Washington Universities Full-Stack Development Bootcamp
-						</a>
-					</strong>{" "}
+					My name is Nathan Keeys and I'm a javascript developer and experience designer with 8+ years in the creative and tech industry. I've been
+					fortunate to work with notable brands and organizations such as Accenture, Children's Hospital, Giant, and PenFed Credit Union. I currently
+					work as a Senior React Developer and freelance by night as an Creative Developer under my studio{" "}
+					<a href="https://www.digitalanthro.co/" target="_blank" rel="noopener noreferrer">
+						Digital Anthro
+					</a>
+					. I work with modern full stack javascript technologies, design systems and currently exploring in WebGL and immersive web development. When
+					I'm not working with clients I teach at{" "}
+					<a href="https://bootcamp.cps.gwu.edu/coding/" target="_blank" rel="noopener noreferrer">
+						George Washington Universities Full-Stack Development Bootcamp
+					</a>{" "}
 					and produce electronic music under the moniker{" "}
-					<strong>
-						<a href="https://80cacao.bandcamp.com/" target="_blank" rel="noopener noreferrer">
-							80% Cacao
-						</a>
-					</strong>
+					<a href="https://80cacao.bandcamp.com/" target="_blank" rel="noopener noreferrer">
+						80% Cacao
+					</a>
 					.
 				</p>
 			</div>
 			<h1>Work</h1>
 			<p>
 				<a target="_blank" href="http://noisegen.io/" rel="noopener noreferrer">
-					Noisegen.io
+					noisegen.io
+				</a>
+			</p>
+			<p>
+				<a target="_blank" href="https://www.penfed.org/" rel="noopener noreferrer">
+					penfed.org
 				</a>
 			</p>
 			<p>
 				<a target="_blank" href="https://abigailsdrivingschool.com/en/" rel="noopener noreferrer">
-					Abigails Driving School
+					abigailsdrivingschool.com
 				</a>
 			</p>
 			<p>
 				<a target="_blank" href="https://www.vinvox.com/" rel="noopener noreferrer">
-					Vinvox
-				</a>
-			</p>
-			<p>
-				<a target="_blank" href="https://carpedmdating.com/" rel="noopener noreferrer">
-					CarpeDM Dating
+					vinvox.com
 				</a>
 			</p>
 			<p>
 				<a target="_blank" href="https://rp3agency.com/" rel="noopener noreferrer">
-					RP3 Agency
+					rp3agency.com
 				</a>
 			</p>
 			<p>
 				<a target="_blank" href="https://www.hrci.org/" rel="noopener noreferrer">
-					HRCI
+					hrci.org
+				</a>
+			</p>
+			<p>
+				<a target="_blank" href="https://www.digitalanthro.co/" rel="noopener noreferrer">
+					digitalanthro.co
+				</a>
+			</p>
+			<p>
+				<a target="_blank" href="https://www.thelumaproject.com/" rel="noopener noreferrer">
+					thelumaproject.com
 				</a>
 			</p>
 			<br />

@@ -3,7 +3,7 @@ body {
 	margin: 0;
 	font-family: "Roboto", sans-serif;
 	background-color: #ffffff !important;
-	color: rgb(0, 0, 0) !important;
+	color: #666 !important;
 	position: relative;
 	font-size: 18px;
 	font-weight: 400 !important;
@@ -33,13 +33,11 @@ h6 {
 }
 
 a {
-	color: rgb(0, 0, 0) !important;
 	text-decoration: underline !important;
 }
 
 h1 {
 	font-size: 1.7em !important;
-	color: rgb(0, 0, 0);
 	margin-bottom: 20px !important;
 }
 
@@ -77,8 +75,8 @@ h3 {
 	text-decoration: none;
 }
 
-.App-header ul a:hover {
-	color: #9dfeff;
+a:hover {
+	color: #007bffbd !important;
 }
 
 .hero {
@@ -146,6 +144,7 @@ h3 {
 .header {
 	width: 80%;
 	padding-bottom: 50px;
+	font-size: 3rem;
 }
 
 .header-link {
@@ -171,17 +170,9 @@ h3 {
 	padding-bottom: 40px;
 }
 
-.title {
-	color: black;
-}
-
 .subtitle {
 	margin-top: 0;
 	display: inline-block;
-}
-
-.caption {
-	color: #999;
 }
 
 .portfolio {
@@ -216,7 +207,6 @@ h3 {
 
 .portfolio .card h4 {
 	text-align: center;
-	color: black;
 }
 
 .footer .container ul a {
@@ -298,7 +288,6 @@ h3 {
 	margin: 10px 0 20px 0;
 	padding: 20px 40px 20px 40px;
 	background: white;
-	color: black;
 	cursor: pointer;
 }
 
@@ -358,17 +347,19 @@ h3 {
 
 	.App-header ul {
 		display: flex;
-		flex-direction: column;
+		flex-direction: row;
 		text-align: center;
 	}
 
 	.App-header ul a,
 	.footer ul a {
-		font-size: 0.5em;
+		font-size: 12px;
 	}
 
 	.header {
 		width: 100%;
+		font-size: 1.5rem;
+		padding-bottom: 0px;
 	}
 
 	.block-link a {
@@ -376,8 +367,8 @@ h3 {
 	}
 
 	.section {
-		padding-top: 20px;
-		padding-bottom: 20px;
+		padding-top: 10px;
+		padding-bottom: 10px;
 	}
 
 	.social-media {
@@ -400,13 +391,16 @@ h3 {
 		margin: 10px 0 20px 0;
 		padding: 10px 20px 10px 20px;
 		background: white;
-		color: black;
 		cursor: pointer;
 	}
 
 	.social-media svg {
 		width: 25px;
 		height: 25px;
+	}
+
+	.footer {
+		justify-content: space-between;
 	}
 }
 

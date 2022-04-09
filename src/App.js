@@ -18,20 +18,17 @@ function App() {
 								Home
 							</Link>
 							<div className="pull-right">
-								<a alt="80percentcacao" target="_blank" rel="noopener noreferrer" href="https://www.80percentcacao.com">
-									Music
-								</a>
-								<a alt="codepen" target="_blank" rel="noopener noreferrer" href="https://www.digitalanthro.co/">
-									Digital Anthro
-								</a>
 								<a alt="medium" target="_blank" rel="noopener noreferrer" href="https://medium.com/@natekeeys">
 									Publications
 								</a>
-								<a alt="twitter" target="_blank" rel="noopener noreferrer" href="https://twitter.com/natekeeys">
-									Twitter
-								</a>
 								<a alt="linkedin" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nathan-keeys-73971b3a/">
 									LinkedIn
+								</a>
+								<a alt="creative studio" target="_blank" rel="noopener noreferrer" href="https://www.digitalanthro.co/">
+									Digital Anthro
+								</a>
+								<a alt="contact" target="_blank" rel="noopener noreferrer" href="mailto:keeysnc@gmail.com">
+									Contact
 								</a>
 							</div>
 						</ul>

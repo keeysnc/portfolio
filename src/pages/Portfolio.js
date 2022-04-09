@@ -7,11 +7,7 @@ const Portfolio = () => {
 	return (
 		<>
 			<Container>
-				<Hero
-					heading="Nathan Keeys - Creative Technologist, Educator, Music Producer and Founder of Creative Studio - "
-					link="www.digitalanthro.co"
-					linkName="Digital Anthro."
-				/>
+				<Hero heading="Javascript Developer, Experience Designer & Educator" link="www.digitalanthro.co" linkName="Digital Anthro." />
 				<Bio />
 			</Container>
 		</>

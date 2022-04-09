@@ -8,12 +8,6 @@ function Footer() {
 			<div className="justify-content-center">
 				<Container>
 					<ul>
-						<a alt="epk" target="_blank" rel="noopener noreferrer" href="https://codepen.io/natekeeys">
-							80% Cacao EPK
-						</a>
-						<a alt="codepen" target="_blank" rel="noopener noreferrer" href="https://www.digitalanthro.co/">
-							Digital Anthro
-						</a>
 						<a alt="medium" target="_blank" rel="noopener noreferrer" href="https://medium.com/@natekeeys">
 							Publications
 						</a>
@@ -22,6 +16,12 @@ function Footer() {
 						</a>
 						<a alt="linkedin" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nathan-keeys-73971b3a/">
 							LinkedIn
+						</a>
+						<a alt="studio" target="_blank" rel="noopener noreferrer" href="https://www.digitalanthro.co/">
+							Digital Anthro
+						</a>
+						<a alt="contact" target="_blank" rel="noopener noreferrer" href="mailto:keeysnc@gmail.com">
+							Contact
 						</a>
 					</ul>
 					<small>Built by Digital Anthro | Copyright 2022</small>

@@ -8,7 +8,7 @@ function Bio() {
 				<p>
 					My name is Nathan Keeys and I'm a javascript developer with 8+ years experience working with a variety of brands and companies. I've been
 					fortunate to work with notable brands and organizations such as Accenture, Children's Hospital, Giant, and PenFed Credit Union. I currently
-					work full-time as a Senior React Developer and consult by night designing & building digital products & experiences under my studio{" "}
+					work full-time as a Senior React Developer and consult by night designing & building digital products under my studio{" "}
 					<a href="https://www.digitalanthro.co/" target="_blank" rel="noopener noreferrer">
 						Digital Anthro
 					</a>
@@ -27,12 +27,7 @@ function Bio() {
 					.
 				</p>
 			</div>
-			<h1>Work</h1>
-			<p>
-				<a target="_blank" href="http://noisegen.io/" rel="noopener noreferrer">
-					noisegen.io
-				</a>
-			</p>
+			<h1>Websites</h1>
 			<p>
 				<a target="_blank" href="https://www.penfed.org/" rel="noopener noreferrer">
 					penfed.org
@@ -58,9 +53,13 @@ function Bio() {
 					hrci.org
 				</a>
 			</p>
+
+			<br />
+			<br />
+			<h1>Immersive Experiences</h1>
 			<p>
-				<a target="_blank" href="https://www.digitalanthro.co/" rel="noopener noreferrer">
-					digitalanthro.co
+				<a target="_blank" href="http://noisegen.io/" rel="noopener noreferrer">
+					noisegen.io
 				</a>
 			</p>
 			<p>
@@ -113,6 +112,13 @@ function Bio() {
 				<a href="https://cicamuseum.com/over-the-structures-2021/" target="_blank" rel="noopener noreferrer">
 					Noise Shift - CICA Museum - South Korea- Over the Structures Exhibition 2021
 				</a>
+			</p>
+			<br />
+			<br />
+			<h1>Tech & Expertise</h1>
+			<p>
+				Javascript | React | Vue.js | Next.js | Gatsby.js | Stripe API | API Integrations | Three.js | Node | MongoDB | Mongoose | Socket.io |
+				Touchdesigner | Ableton
 			</p>
 		</div>
 	);

@@ -26,6 +26,11 @@ function Bio() {
 					</a>
 					.
 				</p>
+				<br></br>
+				<a href="https://github.com/keeysnc" target="_blank">
+					View Github
+				</a>
+				<br></br>
 			</div>
 			<h1>Work Experience</h1>
 			<p>

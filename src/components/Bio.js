@@ -27,31 +27,29 @@ function Bio() {
 					.
 				</p>
 			</div>
-			<h1>Websites</h1>
+			<h1>Work Experience</h1>
 			<p>
-				<a target="_blank" href="https://www.penfed.org/" rel="noopener noreferrer">
-					penfed.org
-				</a>
+				<strong>Accenture</strong> <br></br> Full Stack Web Developer<br></br> <small>December 2019 - Present</small>
+				<br></br> Worked across a variety of government sectors implementing frontend development solutions for enterprise applications and websites
+				using Twig, React & Typescript.
 			</p>
+			<br />
 			<p>
-				<a target="_blank" href="https://abigailsdrivingschool.com/en/" rel="noopener noreferrer">
-					abigailsdrivingschool.com
-				</a>
+				<strong>Westat</strong> <br></br>Frontend Drupal Developer Contractor<br></br> <small>October 2019 - December 2019</small>
+				<br></br> Assisted in the ux consulting and frontend web development of a Drupal based health research website for NIH.
 			</p>
+			<br />
 			<p>
-				<a target="_blank" href="https://www.vinvox.com/" rel="noopener noreferrer">
-					vinvox.com
-				</a>
+				<strong>Digital Anthro, LLC</strong> <br></br> Owner / Creative Technologist<br></br> <small>October 2019 - Present</small>
+				<br></br> I started Digital Anthro, LLC as a consultancy specialized in ui/ux design and web development. I've worked with brands and
+				companies to help them build digital products with a focus on user experience and human-centric design principles.
 			</p>
+			<br />
 			<p>
-				<a target="_blank" href="https://rp3agency.com/" rel="noopener noreferrer">
-					rp3agency.com
-				</a>
-			</p>
-			<p>
-				<a target="_blank" href="https://www.hrci.org/" rel="noopener noreferrer">
-					hrci.org
-				</a>
+				<strong>RP3 Agency</strong> <br></br> Creative Technologist<br></br> <small>Aug 1, 2017 - September 2019</small>
+				<br></br> I started as a UI/UX developer contractor and eventually accepted a full time role as a Creative Technologist in RP3's creative
+				department. I worked as a hybrid designer and frontend developer creating websites & digital experiences for brands such as Norfolk Southern,
+				Giant and HRCI. During RP3's most current rebranding I lead the frontend development of the new RP3 website.
 			</p>
 
 			<br />

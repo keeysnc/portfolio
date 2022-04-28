@@ -5,7 +5,7 @@ import Container from "./Container";
 function Footer() {
 	return (
 		<div className="Bio footer">
-			<div className="justify-content-center">
+			<div>
 				<Container>
 					<ul>
 						<a alt="medium" target="_blank" rel="noopener noreferrer" href="https://medium.com/@natekeeys">

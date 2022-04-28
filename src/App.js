@@ -10,7 +10,7 @@ import Epk from "./pages/Epk";
 function App() {
 	return (
 		<Router basename={process.env.PUBLIC_URL}>
-			<div className="App">
+			<div className="App section">
 				<header className="App-header">
 					<Container>
 						<ul>

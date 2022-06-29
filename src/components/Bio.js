@@ -27,12 +27,114 @@ function Bio() {
 					.
 				</p>
 				<br></br>
-				<a href="https://github.com/keeysnc" target="_blank">
-					View Github
+				<h1>Github</h1>
+				<a href="https://github.com/keeysnc" target="_blank" style={{}}>
+					View Here
 				</a>
 				<br></br>
 			</div>
 			<div>
+				<br />
+				<h1>Work</h1>
+				<p>
+					<a target="_blank" href="https://carpedmdating.com/" rel="noopener noreferrer">
+						CarpeDM Dating Website
+					</a>
+				</p>
+				<p>
+					<b>Details: </b>I was contacted by a small design studio to help build out a marketing website for an innovative black startup called
+					CarpeDM Dating. My role on the project was to build out a Wordpress site and blog as a utility to expand their brand presence and identity.
+				</p>
+				<p>
+					<b>Role: </b>Lead Web Developer
+				</p>
+				<p>
+					<b>Tech:</b> Wordpress
+				</p>
+				<br />
+				<p>
+					<a target="_blank" href="https://portal.carpedmdating.com/login" rel="noopener noreferrer">
+						CarpeDM Dating Member Portal
+					</a>
+				</p>
+				<p>
+					<b>Details: </b>CarpeDM Dating wanted to create a web-based member portal for users to easily keep track of their subscription payments,
+					referrals and promotions. Since I worked with them previously on their marketing site I came back on to help them develop this web-based
+					service
+				</p>
+				<p>
+					<b>Role: </b>Full Stack Web Developer
+				</p>
+				<p>
+					<b>Tech:</b> MEVN Stack, Stripe, Rewardful, Swagger, Postman, AWS Codebuild, Docker
+				</p>
+				<br />
+				<p>
+					<a target="_blank" href="https://www.fbijobs.gov/" rel="noopener noreferrer">
+						FBI Jobs
+					</a>
+				</p>
+				<p>
+					<b>Details: </b> Senior Front-End Developer
+				</p>
+				<p>
+					<b>Role: </b>Drupal Site Builder/ Senior Frontend Web Developer
+				</p>
+				<p>
+					<b>Tech:</b> Drupal
+				</p>
+				<br />
+				<p>
+					<a target="_blank" href="https://rp3agency.com/" rel="noopener noreferrer">
+						RP3 Agency
+					</a>
+				</p>
+				<p>
+					<b>Details: </b>As the lead front-end developer on the creative technology team, I collaborated with the design department to help design,
+					prototype and build the frontend of RP3's newly branded site.
+				</p>
+				<p>
+					<b>Role: </b>Lead Front-end Web Developer
+				</p>
+				<p>
+					<b>Tech:</b> Handlebars (Prototyping), Drupal, Figma, Sketch
+				</p>
+				<br />
+				<p>
+					<a target="_blank" href="https://abigailsdrivingschool.com/en/" rel="noopener noreferrer">
+						Abigails Driving School
+					</a>
+				</p>
+				<p>
+					<b>Details: </b>An old client referred me to this new driving school which was in need of a site rebrand and increase in SEO/SE presence.
+					Performance was his number one pain point so I consulted with him on changing his host to Netlify. I assisted with setting him up a github,
+					and a Netlify CMS which he though was "alot easier than Wordpress". The client was happy with the design ( done by my wife ) and the speed
+					of the site. He even told me he found a another local driving school that "tried" to copied his site design.
+				</p>
+				<p>
+					<b>Role: </b>Javascript Developer
+				</p>
+				<p>
+					<b>Tech:</b> Jam Stack - Gatsby, React, Netlify, Netlify CMS
+				</p>
+				<br />
+				<p>
+					<a target="_blank" href="https://hhearprogram.org/" rel="noopener noreferrer">
+						NIH HHear Program
+					</a>
+				</p>
+				<p>
+					<b>Details: </b>While working on a temp contract with Westat I worked as the solo front-end developer on the HHEAR Program research website
+					for NIH. My main role was to work with the UX designer to build web pages using WCAG accessibility standards.
+				</p>
+				<p>
+					<b>Role: </b>Lead Web Developer
+				</p>
+				<p>
+					<b>Tech:</b> Drupal Site Builder/ Front-end Web Developer
+				</p>
+				<br />
+				<br />
 				<h1>Work Experience</h1>
 				<p>
 					<strong>Accenture</strong> <br></br> Full Stack Web Developer<br></br> <small>December 2019 - Present</small>
@@ -58,6 +160,14 @@ function Bio() {
 					Southern, Giant and HRCI. During RP3's most current rebranding I lead the frontend development of the new RP3 website.
 				</p>
 
+				<br />
+				<br />
+				<h1>Talks & Teaching</h1>
+				<p>
+					<a href="https://vimeo.com/463281152" target="_blank" rel="noopener noreferrer">
+						Introduction to Node.js Review
+					</a>
+				</p>
 				<br />
 				<br />
 				<h1>Immersive Experiences</h1>
@@ -121,8 +231,8 @@ function Bio() {
 				<br />
 				<h1>Tech & Expertise</h1>
 				<p>
-					Javascript | React | Vue.js | Next.js | Gatsby.js | Stripe API | API Integrations | Three.js | Node | MongoDB | Mongoose | Socket.io |
-					Touchdesigner | Ableton
+					Javascript | React | Vue.js | Next.js | Gatsby.js | Stripe API | API Integrations | Three.js | Node | Express | MongoDB | Mongoose |
+					Socket.io | Touchdesigner | Ableton | Drupal | Wordpress | Docker
 				</p>
 			</div>
 		</div>

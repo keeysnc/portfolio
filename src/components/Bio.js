@@ -66,7 +66,7 @@ function Bio() {
 					<b>Role: </b>Full Stack Web Developer
 				</p>
 				<p>
-					<b>Tech:</b> MEVN Stack, Stripe, Rewardful, Swagger, Postman, AWS Codebuild, Docker
+					<b>Tech:</b> Vue, Node, Express, Stripe, Rewardful, Swagger, Postman, AWS Codebuild, Docker
 				</p>
 				<br />
 				<p>
@@ -118,20 +118,17 @@ function Bio() {
 					<b>Tech:</b> Jam Stack - Gatsby, React, Netlify, Netlify CMS
 				</p>
 				<br />
+				<br />
+				<h1>Immersive Experiences</h1>
 				<p>
-					<a target="_blank" href="https://hhearprogram.org/" rel="noopener noreferrer">
-						NIH HHear Program
+					<a target="_blank" href="http://noisegen.io/" rel="noopener noreferrer">
+						noisegen.io
 					</a>
 				</p>
 				<p>
-					<b>Details: </b>While working on a temp contract with Westat I worked as the solo front-end developer on the HHEAR Program research website
-					for NIH. My main role was to work with the UX designer to build web pages using WCAG accessibility standards.
-				</p>
-				<p>
-					<b>Role: </b>Lead Web Developer
-				</p>
-				<p>
-					<b>Tech:</b> Drupal Site Builder/ Front-end Web Developer
+					<a target="_blank" href="https://www.thelumaproject.com/" rel="noopener noreferrer">
+						thelumaproject.com
+					</a>
 				</p>
 				<br />
 				<br />
@@ -160,27 +157,6 @@ function Bio() {
 					Southern, Giant and HRCI. During RP3's most current rebranding I lead the frontend development of the new RP3 website.
 				</p>
 
-				<br />
-				<br />
-				<h1>Talks & Teaching</h1>
-				<p>
-					<a href="https://vimeo.com/463281152" target="_blank" rel="noopener noreferrer">
-						Introduction to Node.js Review
-					</a>
-				</p>
-				<br />
-				<br />
-				<h1>Immersive Experiences</h1>
-				<p>
-					<a target="_blank" href="http://noisegen.io/" rel="noopener noreferrer">
-						noisegen.io
-					</a>
-				</p>
-				<p>
-					<a target="_blank" href="https://www.thelumaproject.com/" rel="noopener noreferrer">
-						thelumaproject.com
-					</a>
-				</p>
 				<br />
 				<br />
 				<h1>Talks & Teaching</h1>
